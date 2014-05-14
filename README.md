@@ -4,12 +4,12 @@ Hack for World of Warcraft 3.3.5.01234
 
 Disclaimer
 ----------
-    This program is not associated with or endorsed by Blizzard Entertainment in any way. 
-    World of Warcraft is copyright of Blizzard Entertainment.
-    
-    This program is made for educational purposes only.
-    By using this program you release all liability of myself
-    for any damage done to your computer, network or network accounts.
+This program is not associated with or endorsed by Blizzard Entertainment in any way. 
+World of Warcraft is copyright of Blizzard Entertainment.
+
+This program is made for educational purposes only.
+By using this program you release all liability of myself
+for any damage done to your computer, network or network accounts.
     
 License
 -------
